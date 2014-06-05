@@ -12,12 +12,17 @@ It uses the following tools:
 ---------
 Eclipse:
 ---------
-1. Fork/download this project locally.  This project only has the JAR Dependencies you need to
-   run the tests.  The test files themselves can be found in the 'test' folder in the 
-   Airports-App project itself.
+1. Fork/download this project locally.  
+   **NOTE** This project only has the JAR Dependencies you need to run unit tests!!  
+   The test files themselves can be found in the 'test' folder in the Airports-App project itself.
+   
 2. Follow the instructions here on how to create the Java Project and 'link'
    to the test java files: 
    https://github.com/thecodepath/android_guides/wiki/Robolectric-Installation-for-Unit-Testing
+   (To make things easier, you can create the 'Java Project' in Eclipse within the folder you created
+    in Step #1 when you originally cloned it locally.)
+   
+   
 
 ---------------
 Android-Studio:
